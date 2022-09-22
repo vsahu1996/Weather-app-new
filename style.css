@@ -1,0 +1,33 @@
+
+body{
+    background-color: #f1a80c;
+}
+main {
+    background-color: #f1a80c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    font-size: 40px;
+    color: white;
+}
+
+#search {
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    box-shadow: 0px 0px 5px grey;
+}
+#search:hover{
+    background-color: rgb(181, 233, 233);
+    color: rgb(5, 5, 5);
+}
