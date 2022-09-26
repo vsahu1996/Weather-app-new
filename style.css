@@ -4,7 +4,7 @@ body{
     background-size: cover;
 }
 main {
-    background-color: #f1a80c;
+    /* background-color: #f1a80c; */
     display: flex;
     justify-content: center;
     align-items: center;
