@@ -1,6 +1,7 @@
 
 body{
-    background-color: #f1a80c;
+    background-image: url(1.png);
+    background-size: cover;
 }
 main {
     background-color: #f1a80c;
